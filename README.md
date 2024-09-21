@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/jwt-helper/v)](https://packagist.org/packages/nguyenanhung/jwt-helper) [![Total Downloads](http://poser.pugx.org/nguyenanhung/jwt-helper/downloads)](https://packagist.org/packages/nguyenanhung/jwt-helper) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/jwt-helper/v/unstable)](https://packagist.org/packages/nguyenanhung/jwt-helper) [![License](http://poser.pugx.org/nguyenanhung/jwt-helper/license)](https://packagist.org/packages/nguyenanhung/jwt-helper) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/jwt-helper/require/php)](https://packagist.org/packages/nguyenanhung/jwt-helper)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/jwt-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/jwt-helper)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/jwt-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/jwt-helper)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/jwt-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/jwt-helper)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/jwt-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/jwt-helper)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/jwt-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/jwt-helper)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/jwt-helper/php)](https://packagist.org/packages/nguyenanhung/jwt-helper)
 
 # Json Web Token Helper
 
